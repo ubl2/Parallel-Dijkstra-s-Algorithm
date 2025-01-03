@@ -23,10 +23,14 @@ To run it on the Google cloud, create a new project, and then create a new Virtu
 
 - <b>PowerShell</b> 
 - <b>Visual Studio</b>
-- <b>MPI Libraru</b>
+- <b>MPI Library</b>
 - <b>C++</b>
 
 <h2> Results</h2>
+The run on a GCP instance. Using multiple processors to run the algorithm has improved efficiency.
+<img src="image.png" height="80%" width="80%" alt="GCP result"/>
+
+
 
 
 
